@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.2438ba26.js",
-    "index.html": "/index.html",
-    "main.2438ba26.js.map": "/static/js/main.2438ba26.js.map"
+    "main.js": "/crudapi/static/js/main.2438ba26.js",
+    "index.html": "/crudapi/index.html",
+    "main.2438ba26.js.map": "/crudapi/static/js/main.2438ba26.js.map"
   },
   "entrypoints": [
     "static/js/main.2438ba26.js"
